@@ -1,4 +1,4 @@
-# Travelgram
+# Portal de Notícias
 
 <div align="center">
     <img src="./.github/img-readme.png" alt="preview">
